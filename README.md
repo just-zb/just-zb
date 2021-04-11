@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+reach me at qq:1453554065,wechat: InimitableArt.
+College student at Nankai software.
+Dream to go aboard...
 <!--
 **just-zb/just-zb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
