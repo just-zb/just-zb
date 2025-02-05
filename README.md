@@ -1,5 +1,6 @@
 ### Hi there 👋
-College student at Nankai software.
+I'm a student from University of Helsinki, Department of Computer Science.
+I’m currently learning Golang and k8s.
 <!--
 **just-zb/just-zb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
